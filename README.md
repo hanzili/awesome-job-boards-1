@@ -160,6 +160,7 @@ A curated list of awesome niche job boards.
 ### Canada
 
 * [Work in Tech](https://www.workintech.ca/) - Toronto-Waterloo Region Corridor Jobs
+* [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) - Free daily-updated Canadian student and recent-grad jobs across internships, co-ops, new grad, junior, and entry-level roles in tech, finance, engineering, business, and sciences
 
 ### Europe
 
